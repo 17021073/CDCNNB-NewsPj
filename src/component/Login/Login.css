@@ -1,0 +1,39 @@
+.login-form {
+    margin: 90px 450px;
+}
+
+.login-form h2 {
+    text-align: center;
+    margin: 20px;
+    color: #fff;
+}
+
+.form-box {
+    border: 1px solid #333333;
+    padding: 25px 40px 50px;
+    background: #333333;
+    border-radius: 10px;
+}
+
+.form-box label {
+    color: #fff;
+    display: block;
+}
+
+.form-control:focus {
+    outline: 0;
+    border-color: #ced4da;
+}
+
+.btn-login {
+    text-align: center;
+    margin: 30px 0 0;
+}
+
+.btn-login input {
+    background: #fff;
+    color: #333333;
+    border: 1px solid #333333;
+    padding: 10px 30px;
+    border-radius: 5px;
+}

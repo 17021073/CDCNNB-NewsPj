@@ -1,0 +1,52 @@
+.bd-article {
+    max-width: 500px;
+}
+
+.article {
+    border-bottom: 1px solid #000;
+    position: relative;
+    padding: 20px 5px;
+}
+
+span {
+    top: 20px;
+    left: 5px;
+    position: absolute;
+    margin-right: 5px;
+    word-break: break-all;
+}
+
+.details {
+    padding: 15px 0;
+}
+
+.details i {
+    font-size: 13px;
+    padding-right: 15px;
+    line-height: 20px;
+}
+
+.details p {
+    margin-top: 10px;
+}
+
+.details a {
+    color: #333333 !important;
+    background-color: #fff;
+    border: 1px solid #333333;
+    font-size: 14px;
+    padding: 6px 12px;
+    line-height: 20px;
+    text-transform: uppercase;
+    margin-right: 15px;
+    cursor: pointer;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.details a:hover {
+    background-color: #333333;
+    border: 1px solid #fff;
+    color: #fff !important;
+    text-decoration: none;
+}
